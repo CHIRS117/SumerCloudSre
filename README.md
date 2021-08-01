@@ -7,10 +7,13 @@ Un Bot llamado Domtito que ayudara las personas a verificar que sus documentos e
 https://youtu.be/Ad5DpwGGm4g (Tiktok banneo el video)
 
 3.-Diagrama de Azure:
+![image](https://user-images.githubusercontent.com/86989092/127781973-a57049dd-021f-411b-bf6e-f2da1ca3acca.png)
 
 4.-SLA Compuesto:
 
 5.-TCO 3 años y Precio Total por mes:
+
+TCO 3 años y Precio Total por mes: Esta previsto que la paltaforma llegue a su punto maximo de confiabilidad en tres años generando un costo aproximado de 436,576,323 Dolares, y un aproximado mensual de 9107.24
 
 6.-Tiempo sin disponibilidad a un año:
 
