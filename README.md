@@ -7,7 +7,7 @@ Un Bot llamado Domtito que ayudara las personas a verificar que sus documentos e
 https://youtu.be/Ad5DpwGGm4g (Tiktok banneo el video)
 
 3.-Diagrama de Azure:
-![image](https://user-images.githubusercontent.com/86989092/127781973-a57049dd-021f-411b-bf6e-f2da1ca3acca.png)
+![image](https://user-images.githubusercontent.com/86989092/127782033-9b347316-e490-4963-a4df-6dc8d7aebe37.png)
 
 4.-SLA Compuesto:
 
